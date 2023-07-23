@@ -275,7 +275,7 @@ securityContext:
   runAsUser: 1000
 
 securityConfig:
-  enabled: true
+  enabled: false
   path: "/usr/share/opensearch/config/opensearch-security"
   actionGroupsSecret:
   configSecret:
