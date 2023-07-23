@@ -13,15 +13,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 ### Security
 ---
-## [2.13.3]
-### Added
-### Changed
-### Deprecated
-### Removed
-### Fixed
-- Correct variable name in keystore import
-### Security
----
 ## [2.13.2]
 ### Added
 ### Changed
@@ -302,8 +293,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Security
 
 
-[Unreleased]: https://github.com/opensearch-project/helm-charts/compare/opensearch-2.13.3...HEAD
-[2.13.3]: https://github.com/opensearch-project/helm-charts/compare/opensearch-2.13.1...opensearch-2.13.3
+[Unreleased]: https://github.com/opensearch-project/helm-charts/compare/opensearch-2.13.2...HEAD
 [2.13.2]: https://github.com/opensearch-project/helm-charts/compare/opensearch-2.13.1...opensearch-2.13.2
 [2.13.1]: https://github.com/opensearch-project/helm-charts/compare/opensearch-2.13.0...opensearch-2.13.1
 [2.13.0]: https://github.com/opensearch-project/helm-charts/compare/opensearch-2.12.0...opensearch-2.13.0
